@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="https://www.thymeleaf.org/">
+<head>
+    <meta charset="UTF-8">
+    <title>New Task - SpringBoot Assessment</title>
+    <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+<h1>New TODO item</h1>
+<a id="tableButton" th:href="@{/}">Back</a><br>
+<form id="newTaskForm">
+    <label for="newTitle">Title</label><br />
+    <input type="text" id="newTitle" required><br>
+    <label for="newDescription">Description</label><br />
+    <textarea id="newDescription" rows="4" cols="50"></textarea><br>
+    <label for="newDate">Target Date</label><br />
+    <input type="date" id="newDate" ><br>
+    <input id="submitNewTask" type="submit" value="Add">
+</form>
+
+<script src="js/taskController.js"></script>
+<script src="js/taskForm.js"></script>
+
+</body>
+</html>
