@@ -95,4 +95,4 @@ Ans: During my attempt to complete this assessment, MySQL Workbench (mac) crashe
 
 Ans: Another lecture covering similar projects or a detailed guided code-along recap of Task 3 would have been significantly helpful. However, I understand that the bootcamp is operating under a tight schedule.
 
-Fortunately, the extension of the submission deadline has helped alleviate the need, allowing me more time to analyze, refactor, test & iterate.
+Fortunately, the extension of the class submission deadline has helped alleviate the need, allowing me more time to analyze, refactor, test & iterate.
