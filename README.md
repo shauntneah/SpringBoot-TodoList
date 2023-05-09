@@ -36,7 +36,7 @@ You will develop a Simple Spring MVC Todo management web application using Sprin
 
 1. Show all Todo list : Create a web page to display all Todo lists (the following UI is for illustration purposes. Feel free to do your own UI with the required information shown).
 
-   [image]
+  [screenshot](https://i.ibb.co/v3x36b3/jpg.jpg)
 
    The table will list out all the information for the Todo list. Information to be retrieved from MySQL database.
 
